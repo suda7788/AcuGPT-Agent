@@ -57,7 +57,7 @@ The project will be open source under the Apache 2.0 License or MIT License for 
 
 If you have the intention of cooperation or exchange, please contact us through the following ways：
 
-- 📧 Email: wwenjingmail@163.com (Jing WenP; 1241917171@qq.com (Diandong Liu)
+- 📧 Email: wwenjingmail@163.com (Jing Wen); 1241917171@qq.com (Diandong Liu)
 - 🌐 Website: http://124.221.109.36/#/login
 ---
 
