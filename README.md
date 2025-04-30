@@ -1,21 +1,21 @@
-# AcupunctureGPT
+# AcuGPT
 
-**🔬 AcupunctureGPT:ChatAcupunctureGPT: Building a Large Language Model Agent to Become an Expert in Acupuncture for Infertility Treatment**  
+**🔬 A Rapid Framework for Domain-Specific Agent Construction: An Application to Acupuncture-Based Infertility Treatment**  
 **📅 Estimated completion time of open source project: end of 2025**
 
 ---
 
 ## 📖 Project Overview
 
-This project is to build the first large language model (LLM) system ** in the field of acupuncture and moxibustion, including acupuncture knowledge map,
+This project is to build the first large language model (LLM) system ** in the field of acupuncture and moxibustion, including acupuncture knowledge Graph,
 evaluation data set and multi-agent model framework, focusing on assisting the reasoning and decision-making tasks in the process of TCM acupuncture and
 moxibustion diagnosis and treatment.
 
 We propose the following key modules:：
 
-- 🧐 **AcupunctureGPT**：A fine-tuned language model for acupuncture tasks 
-- 📊 **EvalAcupuncture**：A specially constructed acupuncture task evaluation dataset 
-- 🤖 **ChatAcupunctureGPT_Agent**：Based on multi-agent architecture, intelligent assistant supporting acupuncture treatment of infertility and other diseases  
+- 🧐 **AcuGPT**：A fine-tuned language model for acupuncture tasks 
+- 📊 **EvalAcu**：A specially constructed acupuncture task evaluation dataset 
+- 🤖 **AcuGPT_Agent**：Based on multi-agent architecture, intelligent assistant supporting acupuncture treatment of infertility and other diseases  
 - 🌐 **The Acupuncture Infertility Bilingual Knowledge Graph**：Structured expression of standardized knowledge system of acupuncture treatment for infertility 
 
 The project is committed to promoting the deep integration of artificial intelligence and TCM acupuncture, and supporting more scientific research and clinical application exploration.
@@ -29,8 +29,8 @@ We will open source gradually in the following stages：
 | phase |  content | Time node (expected) |
 |------|------|----------------|
 | ✅ step 1 | Part of acupuncture knowledge atlas sample dataset | Q2 2025 |
-| 🚧 step 2 | EvalAcupuncture Evaluation base set | Q3 2025 |
-| ⏳ step 3 | ChatAcupunctureGPT_Agent Framework code and examples | Q4 2025 |
+| 🚧 step 2 | EvalAcu Evaluation base set | Q3 2025 |
+| ⏳ step 3 | AcuGPT_Agent Framework code and examples | Q4 2025 |
 
 👉 The complete warehouse content will be unified and open source after all research work is completed and sorted out, which is expected to be by the end of 2025.
 
