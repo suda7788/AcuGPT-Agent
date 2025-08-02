@@ -7,7 +7,7 @@
 
 ## 📖 Project Overview
 
-This project is to build the first large language model (LLM) system ** in the field of acupuncture and moxibustion, including acupuncture knowledge Graph,
+This project is to build the first large language model (LLM) system  in the field of acupuncture and moxibustion, including acupuncture knowledge Graph,
 evaluation data set and multi-agent model framework, focusing on assisting the reasoning and decision-making tasks in the process of TCM acupuncture and
 moxibustion diagnosis and treatment.
 
