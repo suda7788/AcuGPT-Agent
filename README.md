@@ -1,6 +1,6 @@
 # AcuGPT
 
-**🔬 A Rapid Framework for Domain-Specific Agent Construction: An Application to Acupuncture-Based Infertility Treatment**  
+**🔬 AcuGPT-Agent: An LLM-Powered Intelligent System for Acupuncture-Based Infertility Treatment**  
 **📅 Estimated completion time of open source project: end of 2025**
 
 ---
