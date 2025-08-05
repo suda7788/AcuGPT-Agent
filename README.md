@@ -28,9 +28,9 @@ We will open source gradually in the following stages：
 
 | phase |  content | Time node (expected) |
 |------|------|----------------|
-| ✅ step 1 | Part of acupuncture knowledge atlas sample dataset | Q2 2026 |
+| ✅ step 1 | Part of acupuncture knowledge atlas sample dataset and AcuGPT1.0 | Q2 2025 |
 | 🚧 step 2 | EvalAcu Evaluation base set | Q3 2026 |
-| ⏳ step 3 | AcuGPT_Agent Framework code and examples | Q4 2026 |
+| ⏳ step 3 | AcuGPT2.0, AcuGPT_Agent Framework code and examples | Q4 2026 |
 
 👉 The complete warehouse content will be unified and open source after all research work is completed and sorted out, which is expected to be by the end of 2025.
 
